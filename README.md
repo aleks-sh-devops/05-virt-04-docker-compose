@@ -199,3 +199,4 @@ internal_ip_address_node01_yandex_cloud = "192.168.101.34"
 
 ## Ответ  
 ![monitoring](pic3.png)
+![monitoring2](pic4.png)
